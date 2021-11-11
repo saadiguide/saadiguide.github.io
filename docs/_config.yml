@@ -30,7 +30,14 @@ github_username:  saadiguide
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-hacker
+theme: minima
+
+#To use themes provided by others
+#remote_theme: alshedivat/al-folio
+#remote_theme: jekyll/minima
+#remote_theme: kitian616/jekyll-TeXt-theme
+
+
 plugins:
   - jekyll-feed
 
