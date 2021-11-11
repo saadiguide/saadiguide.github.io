@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Saadi Guides
-#email: your-email@example.com
+email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   Saadi or saada is an urdu word meaning plain and simple.
   This site is meant to describe things in a simple way 
